@@ -33,7 +33,8 @@ The script uses the os module to traverse directories and the hashlib module to 
 
 # USAGE 
 
-Run the script using the command > _python3_ _file_integrity_checker.py_, where > _file_integrity_checker.py_ is the name of your Python script file.
+Run the script using the command  _python3_ _file_integrity_checker.py_,
+ where  _file_integrity_checker.py_ is the name of your Python script file.
 
 
 # Choose an option from the menu:
