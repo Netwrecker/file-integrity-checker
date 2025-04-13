@@ -33,20 +33,20 @@ The script uses the os module to traverse directories and the hashlib module to 
 
 # USAGE 
 
-Run the script using the command _python3_ _file_integrity_checker.py_, where _file_integrity_checker.py_ is the name of your Python script file.
+Run the script using the command > _python3_ _file_integrity_checker.py_, where > _file_integrity_checker.py_ is the name of your Python script file.
 
 
-**Choose an option from the menu:**
+# Choose an option from the menu:
 
-Enter '1' to check the integrity of a file. You will be prompted to enter the file path and the stored hash.
+* Enter '1' to check the integrity of a file. You will be prompted to enter the file path and the stored hash.
 
-Enter '2' to store the hash of a file. You will be prompted to enter the file path.
+* Enter '2' to store the hash of a file. You will be prompted to enter the file path.
 
-Enter '3' to monitor file changes. You will be prompted to enter the file path.
+* Enter '3' to monitor file changes. You will be prompted to enter the file path.
 
-Enter '4' to monitor directory changes. You will be prompted to enter the directory path.
+* Enter '4' to monitor directory changes. You will be prompted to enter the directory path.
 
-Enter '5' to exit the script.
+* Enter '5' to exit the script.
 
 The script will perform the selected operation and display the result.
 
