@@ -51,3 +51,33 @@ Run the script using the command  _python3_ _file_integrity_checker.py_,
 
 The script will perform the selected operation and display the result.
 
+# Output
+
+File/Directory Integrity Checker and Monitor
+
+1. Check File Integrity
+2. Store File Hash
+3. Monitor File Changes
+4. Monitor Directory Changes
+5. Exit
+   
+Enter your choice (1-5): 1
+
+Enter the file path: path/to/your/file
+
+Enter the stored hash: stored_hash_value
+
+File 'path/to/your/file' is not modified.
+
+File/Directory Integrity Checker and Monitor
+1. Check File Integrity
+2. Store File Hash
+3. Monitor File Changes
+4. Monitor Directory Changes
+5. Exit
+   
+Enter your choice (1-5): 2
+
+Enter the file path: path/to/your/file
+
+Stored hash for 'path/to/your/file': 7d6f006b0202e6b8d722f6e079
